@@ -1,0 +1,23 @@
+
+.corDeFundo {
+	margin: 40px auto;
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+	background: #051D3B;
+	border-radius: 40px;
+}
+
+.cabecalhoPrincipal .container{
+	display: flex;
+	justify-content: space-between;
+	margin: 20px auto;
+}
+
+.logoCabecalho {
+	position: absolute;
+	width: 145px;
+	height: 45px;
+	left: 0px;
+	top: 12px;
+}

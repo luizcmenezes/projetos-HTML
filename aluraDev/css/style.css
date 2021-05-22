@@ -1,0 +1,34 @@
+body {
+	background-color: #E5E5E5;
+}
+
+.container {
+	width: 94%;
+	margin: 0 auto;
+}
+
+.cabecalhoPrincipal {
+	background-color: #051D3B;
+	padding: 20px 0;
+	border-radius: 40px 40px 0 0;
+}
+
+.cabecalhoPrincipal .container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	width: 145px;
+	height: 45px;
+}
+
+@media(min-width: 769px) {
+
+}
+
+@media(min-width: 1000px) {
+
+}
+
+
